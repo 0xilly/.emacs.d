@@ -1,0 +1,9 @@
+save
+auto-save-lists
+elpa
+*.eld
+saves
+transient
+vimish-fold
+.cache
+.lsp-session-v1
